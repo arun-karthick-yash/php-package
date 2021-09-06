@@ -1,11 +1,11 @@
 {
-    "name": "arun-karthick-yash/phppackage",
+    "name": "arun-karthick-yash/php-package",
     "description": "this my first phppackage script",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "phppackage",
+            "name": "php-package",
             "email": "arunkarthickk82@gmail.com"
         }
     ],
