@@ -1,7 +1,18 @@
 {
-  "autoload":{
-  	"psr-4" : {
-  		"Acme\\":"src"
-  	}
-  }
+    "name": "arun-karthick-yash/phppackage",
+    "description": "this my first phppackage script",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phppackage",
+            "email": "arunkarthickk82@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Acme\\":"src"
+        }
+    },
+    "require": {}
 }
